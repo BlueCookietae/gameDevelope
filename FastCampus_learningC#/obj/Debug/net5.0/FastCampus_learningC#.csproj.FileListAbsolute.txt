@@ -1,0 +1,15 @@
+/Users/seunga/Documents/GitHub/gameDevelope/FastCampus_learningC#/bin/Debug/net5.0/FastCampus_learningC#.deps.json
+/Users/seunga/Documents/GitHub/gameDevelope/FastCampus_learningC#/bin/Debug/net5.0/FastCampus_learningC#.runtimeconfig.json
+/Users/seunga/Documents/GitHub/gameDevelope/FastCampus_learningC#/bin/Debug/net5.0/FastCampus_learningC#.runtimeconfig.dev.json
+/Users/seunga/Documents/GitHub/gameDevelope/FastCampus_learningC#/bin/Debug/net5.0/FastCampus_learningC#.dll
+/Users/seunga/Documents/GitHub/gameDevelope/FastCampus_learningC#/bin/Debug/net5.0/ref/FastCampus_learningC#.dll
+/Users/seunga/Documents/GitHub/gameDevelope/FastCampus_learningC#/bin/Debug/net5.0/FastCampus_learningC#.pdb
+/Users/seunga/Documents/GitHub/gameDevelope/FastCampus_learningC#/obj/Debug/net5.0/FastCampus_learningC#.csproj.AssemblyReference.cache
+/Users/seunga/Documents/GitHub/gameDevelope/FastCampus_learningC#/obj/Debug/net5.0/FastCampus_learningC#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seunga/Documents/GitHub/gameDevelope/FastCampus_learningC#/obj/Debug/net5.0/FastCampus_learningC#.AssemblyInfoInputs.cache
+/Users/seunga/Documents/GitHub/gameDevelope/FastCampus_learningC#/obj/Debug/net5.0/FastCampus_learningC#.AssemblyInfo.cs
+/Users/seunga/Documents/GitHub/gameDevelope/FastCampus_learningC#/obj/Debug/net5.0/FastCampus_learningC#.csproj.CoreCompileInputs.cache
+/Users/seunga/Documents/GitHub/gameDevelope/FastCampus_learningC#/obj/Debug/net5.0/FastCampus_learningC#.dll
+/Users/seunga/Documents/GitHub/gameDevelope/FastCampus_learningC#/obj/Debug/net5.0/ref/FastCampus_learningC#.dll
+/Users/seunga/Documents/GitHub/gameDevelope/FastCampus_learningC#/obj/Debug/net5.0/FastCampus_learningC#.pdb
+/Users/seunga/Documents/GitHub/gameDevelope/FastCampus_learningC#/obj/Debug/net5.0/FastCampus_learningC#.genruntimeconfig.cache
